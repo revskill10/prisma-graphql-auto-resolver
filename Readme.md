@@ -95,6 +95,6 @@ Right now, there are some limitations/rules that the models should follow for th
 3. There needs to be a master Type - somewhere where you connect a type to the name of the table (in prisma lower-case notation) [see AllTypes above]
 4. Queries with args are still a work in progress.
 
-Limitation 1 and 2 should be solved as soon as a Prisma-to-GraphQL package is done (and I'm working on it =));
+Limitation 1 and 2 should be solved as soon as a Prisma-to-GraphQL package is done (and I'm working on it;
 Right now, there are no plans to overcome number 3;
 Limitation number 4 is under work.
